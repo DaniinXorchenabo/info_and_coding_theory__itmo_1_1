@@ -16,3 +16,4 @@
 !/notebooks/**/*.py
 !/notebooks/**/*.ipynb
 !/**/.gitkeep
+/metrics/**/*
