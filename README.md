@@ -3,6 +3,8 @@
 
 [original repo](https://ctlab.itmo.ru/gitlab/eabelyaev/cnnimagecodec)
 
+Отчёт: [gh_Отчет_по_финальному_проекту.pdf](https://github.com/user-attachments/files/18052633/gh_._._._._.pdf)
+
 ## Results
 
 ![image](https://github.com/user-attachments/assets/ead76ad0-ae41-4a4a-8a46-ba06c2979fab)
