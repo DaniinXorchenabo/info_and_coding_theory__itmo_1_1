@@ -46,3 +46,4 @@ datasets
 transformers
 scikit-learn
 pytorch-msssim
+pybind11
