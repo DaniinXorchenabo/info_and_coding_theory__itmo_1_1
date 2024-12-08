@@ -17,3 +17,13 @@
 !/notebooks/**/*.ipynb
 !/**/.gitkeep
 /metrics/**/*
+/**/build/**/*
+*.so
+*.o
+*.pyd
+*.zip
+*.rar
+*.7z
+*.jpeg
+*.phg
+*.jpg
